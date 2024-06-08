@@ -1,0 +1,8 @@
+streamlit
+pandas
+requests
+deep_translator
+python-docx
+openpyxl
+python-pptx
+PyPDF2
