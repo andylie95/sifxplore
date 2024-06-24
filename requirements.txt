@@ -1,7 +1,0 @@
-streamlit
-pandas
-gspread
-google-auth
-google-api-python-client
-pydrive2
-googletrans==4.0.0-rc1
