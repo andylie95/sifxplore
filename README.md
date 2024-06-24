@@ -1,2 +1,0 @@
-# sifxplore
-SIF XPLORE
